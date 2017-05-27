@@ -1,2 +1,2 @@
 # daraltechnologies.github.io
-daral technologies website
+Daral Technologies website
